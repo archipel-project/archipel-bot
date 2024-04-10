@@ -26,7 +26,7 @@ repositories {
 
 dependencies {
     // https://mvnrepository.com/artifact/net.dv8tion/JDA
-    implementation 'net.dv8tion:JDA:5.0.0-beta.18'
+    implementation 'net.dv8tion:JDA:5.0.0-beta.21'
 
     // https://mvnrepository.com/artifact/io.github.cdimascio/java-dotenv
     implementation 'io.github.cdimascio:java-dotenv:5.3.1'
